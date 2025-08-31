@@ -59,6 +59,7 @@ const Home = () => {
       PH: "Mr. Pravin Hole",
       LS: "Ms. Leena Sahu",
       CB: "Mr. Chandrashekhar Badjugar",
+      PK: "Dr. Poonam Kadam",
       B: "Ms. Bindi",
       Other: "Other",
     };
