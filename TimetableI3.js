@@ -114,31 +114,31 @@ export const I3 = [
     name: "ADS",
     time: "03:00pm-04:00pm",
     faculty: "MM",
-    day: "Tuesday",
+    day: "Wednesday",
   },
   {
     name: "CG",
     time: "03:00pm-04:00pm",
     faculty: "NK",
-    day: "Tuesday",
+    day: "Wednesday",
   },
   {
     name: "UCD",
     time: "03:00pm-04:00pm",
     faculty: "SM",
-    day: "Tuesday",
+    day: "Wednesday",
   },
   {
     name: "ADS (Lab)",
     time: "04:00pm-06:00pm",
     faculty: "MM",
-    day: "Tuesday",
+    day: "Wednesday",
   },
   {
     name: "CG (Lab)",
     time: "04:00pm-06:00pm",
     faculty: "NK",
-    day: "Tuesday",
+    day: "Wednesday",
   },
 
   // Thursday
