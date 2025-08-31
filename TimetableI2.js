@@ -116,19 +116,19 @@ export const I2 = [
     name: "ADS",
     time: "03:00pm-04:00pm",
     faculty: "NA",
-    day: "Tuesday",
+    day: "Wednesday",
   },
   {
     name: "CG",
     time: "03:00pm-04:00pm",
     faculty: "NK",
-    day: "Tuesday",
+    day: "Wednesday",
   },
   {
     name: "UCD",
     time: "03:00pm-04:00pm",
     faculty: "SM",
-    day: "Tuesday",
+    day: "Wednesday",
   },
   {
     name: "ADS (Lab)",
