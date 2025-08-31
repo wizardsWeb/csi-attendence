@@ -101,7 +101,7 @@ export const I3 = [
   {
     name: "COI",
     time: "12:00pm-01:00pm",
-    faculty: "H",
+    faculty: "AH",
     day: "Wednesday",
   },
   {

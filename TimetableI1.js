@@ -62,7 +62,7 @@ export const I1 = [
   },
   {
     name: "CN",
-    time: "11:00pm-12:00pm",
+    time: "11:00am-12:00pm",
     faculty: "RM",
     day: "Tuesday",
   },
@@ -169,7 +169,7 @@ export const I1 = [
   {
     name: "COI",
     time: "01:00pm-02:00pm",
-    faculty: "H",
+    faculty: "AH",
     day: "Thursday",
   },
   {
