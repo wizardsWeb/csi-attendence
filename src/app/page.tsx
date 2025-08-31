@@ -64,6 +64,7 @@ const Home = () => {
       PP: "Ms. Praniti Patil",
       AH: "Mr. Amaro Henrique",
       SD: "Dr. Sanjay Deshmukh",
+      LV: "Mr. Lekhraj Varshney",
       Other: "Other",
     };
 
