@@ -172,19 +172,19 @@ export const I2 = [
   },
   {
     "name": "I2-1:ML",
-    "time": "12:00am-02:00am",
+    "time": "12:00pm-02:00pm",
     "faculty": "NK",
     "day": "Thursday"
   },
   {
     "name": "I2-2:IS",
-    "time": "12:00am-02:00am",
+    "time": "12:00pm-02:00pm",
     "faculty": "AP",
     "day": "Thursday"
   },
   {
     "name": "CC",
-    "time": "02:00am-03:00am",
+    "time": "02:00pm-03:00pm",
     "faculty": "PH",
     "day": "Thursday"
   },
@@ -199,19 +199,19 @@ export const I2 = [
   },
   {
     "name": "BDA-3",
-    "time": "10:00am-12:00am",
+    "time": "10:00am-12:00pm",
     "faculty": "SM",
     "day": "Friday"
   },
   {
     "name": "CC-1",
-    "time": "10:00am-12:00am",
+    "time": "10:00am-12:00pm",
     "faculty": "SP",
     "day": "Friday"
   },
   {
     "name": "SE",
-    "time": "01:00am-02:00am",
+    "time": "01:00pm-02:00pm",
     "faculty": "MS",
     "day": "Friday"
   },

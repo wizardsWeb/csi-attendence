@@ -57,13 +57,13 @@ export const I3 = [
   // Tuesday
   {
     "name": "I3-1:MLOPS",
-    "time": "08:00am-10:00pm",
+    "time": "08:00am-10:00am",
     "faculty": "SV",
     "day": "Tuesday"
   },
   {
     "name": "I3-2:MLOPS",
-    "time": "08:00am-10:00pm",
+    "time": "08:00am-10:00am",
     "faculty": "SA",
     "day": "Tuesday"
   },
