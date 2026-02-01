@@ -1,245 +1,238 @@
 export const I3 = [
-  // Monday
   {
-    name: "AI",
-    time: "08:00am-09:00am",
-    faculty: "PG",
-    day: "Monday",
+    "name": "IPCV",
+    "time": "08:00am-09:00am",
+    "faculty": "NK",
+    "day": "Monday"
   },
   {
-    name: "SA",
-    time: "09:00am-10:00am",
-    faculty: "RS",
-    day: "Monday",
+    "name": "IS",
+    "time": "08:00am-09:00am",
+    "faculty": "PP",
+    "day": "Monday"
   },
   {
-    name: "DWM",
-    time: "10:00am-11:00am",
-    faculty: "SC",
-    day: "Monday",
+    "name": "BDA",
+    "time": "08:00am-09:00am",
+    "faculty": "SM",
+    "day": "Monday"
   },
   {
-    name: "CN",
-    time: "11:00am-12:00pm",
-    faculty: "PK",
-    day: "Monday",
+    "name": "CNS",
+    "time": "09:00am-10:00am",
+    "faculty": "RS",
+    "day": "Monday"
+  },
+  {
+    "name": "CC",
+    "time": "10:00am-11:00am",
+    "faculty": "PP",
+    "day": "Monday"
+  },
+  {
+    "name": "SE",
+    "time": "12:00pm-01:00pm",
+    "faculty": "HD",
+    "day": "Monday"
+  },
+  {
+    "name": "EVS",
+    "time": "01:00pm-02:00pm",
+    "faculty": "SS",
+    "day": "Monday"
+  },
+  {
+    "name": "EVS",
+    "time": "01:00pm-02:00pm",
+    "faculty": "NA",
+    "day": "Monday"
+  },
+  {
+    "name": "MLOPS",
+    "time": "03:00pm-04:00pm",
+    "faculty": "LS",
+    "day": "Monday"
   },
 
   // Tuesday
   {
-    name: "ADS (Lab)",
-    time: "08:00am-10:00am",
-    faculty: "MM",
-    day: "Tuesday",
+    "name": "I3-1:MLOPS",
+    "time": "08:00am-10:00pm",
+    "faculty": "SV",
+    "day": "Tuesday"
   },
   {
-    name: "UCD (Lab)",
-    time: "08:00am-10:00am",
-    faculty: "NA",
-    day: "Tuesday",
+    "name": "I3-2:MLOPS",
+    "time": "08:00am-10:00pm",
+    "faculty": "SA",
+    "day": "Tuesday"
   },
   {
-    name: "ADS",
-    time: "10:00am-11:00am",
-    faculty: "MM",
-    day: "Tuesday",
+    "name": "IPCV",
+    "time": "11:00am-12:00pm",
+    "faculty": "VS",
+    "day": "Tuesday"
   },
   {
-    name: "CG",
-    time: "10:00am-11:00am",
-    faculty: "NK",
-    day: "Tuesday",
+    "name": "IS",
+    "time": "11:00am-12:00pm",
+    "faculty": "PP",
+    "day": "Tuesday"
   },
   {
-    name: "UCD",
-    time: "10:00am-11:00am",
-    faculty: "SM",
-    day: "Tuesday",
+    "name": "BDA",
+    "time": "11:00am-12:00pm",
+    "faculty": "SM",
+    "day": "Tuesday"
   },
   {
-    name: "DWM",
-    time: "11:00am-12:00pm",
-    faculty: "SC",
-    day: "Tuesday",
+    "name": "CNS",
+    "time": "12:00pm-01:00pm",
+    "faculty": "RS",
+    "day": "Tuesday"
+  }, 
+  {
+    "name": "I3-1:ML",
+    "time": "02:00pm-04:00pm",
+    "faculty": "SC",
+    "day": "Tuesday"
   },
   {
-    name: "AI",
-    time: "12:00pm-01:00pm",
-    faculty: "LS",
-    day: "Tuesday",
-  },
-  {
-    name: "SA (Lab)",
-    time: "02:00pm-04:00pm",
-    faculty: "RS",
-    day: "Tuesday",
-  },{
-    name: "CN (Lab)",
-    time: "02:00pm-04:00pm",
-    faculty: "PK",
-    day: "Tuesday",
-  },{
-    name: "CN",
-    time: "04:00pm-05:00pm",
-    faculty: "PK",
-    day: "Tuesday",
+    "name": "I3-2:SE",
+    "time": "02:00pm-04:00pm",
+    "faculty": "HD",
+    "day": "Tuesday"
   },
 
   // Wednesday
   {
-    name: "DEVOPS (Lab)",
-    time: "10:00am-12:00pm",
-    faculty: "LS",
-    day: "Wednesday",
+    "name": "ML",
+    "time": "09:00am-10:00am",
+    "faculty": "SA",
+    "day": "Wednesday"
+  },
+  { 
+    "name": "I3-1:CNS",
+    "time": "10:00am-12:00pm", 
+    "faculty": "SC", 
+    "day": "Wednesday"
+  },
+ { 
+    "name": "I3-2:ML",
+    "time": "10:00am-12:00pm", 
+    "faculty": "SA", 
+    "day": "Wednesday" 
   },
   {
-    name: "DEVOPS (Lab)",
-    time: "10:00am-12:00pm",
-    faculty: "CB",
-    day: "Wednesday",
+    "name": "SE",
+    "time": "01:00pm-02:00pm",
+    "faculty": "HD",
+    "day": "Wednesday"
   },
   {
-    name: "COI",
-    time: "12:00pm-01:00pm",
-    faculty: "AH",
-    day: "Wednesday",
+    "name": "IPCV",
+    "time": "02:00pm-03:00pm",
+    "faculty": "VS",
+    "day": "Wednesday"
   },
   {
-    name:"SA",
-    time: "01:00pm-02:00pm",
-    faculty: "RS",
-    day: "Wednesday",
+    "name": "IS",
+    "time": "02:00pm-03:00pm",
+    "faculty": "AP",
+    "day": "Wednesday"
   },
   {
-    name: "ADS",
-    time: "03:00pm-04:00pm",
-    faculty: "MM",
-    day: "Wednesday",
-  },
-  {
-    name: "CG",
-    time: "03:00pm-04:00pm",
-    faculty: "NK",
-    day: "Wednesday",
-  },
-  {
-    name: "UCD",
-    time: "03:00pm-04:00pm",
-    faculty: "SM",
-    day: "Wednesday",
-  },
-  {
-    name: "ADS (Lab)",
-    time: "04:00pm-06:00pm",
-    faculty: "MM",
-    day: "Wednesday",
-  },
-  {
-    name: "CG (Lab)",
-    time: "04:00pm-06:00pm",
-    faculty: "NK",
-    day: "Wednesday",
+    "name": "MLOPS",
+    "time": "04:00pm-06:00pm",
+    "faculty": "LS",
+    "day": "Wednesday"
   },
 
   // Thursday
   {
-    name: "DEVOPS",
-    time: "08:00am-09:00am",
-    faculty: "LV",
-    day: "Thursday",
+    "name": "BDA",
+    "time": "10:00am-11:00am",
+    "faculty": "SM",
+    "day": "Thursday"
   },
   {
-    name: "DEVOPS",
-    time: "09:00am-10:00am",
-    faculty: "AJ",
-    day: "Thursday",
+    "name": "ML",
+    "time": "11:00am-12:00pm",
+    "faculty": "SA",
+    "day": "Thursday"
   },
   {
-    name: "CN (Lab)",
-    time: "02:00pm-04:00pm",
-    faculty: "PK",
-    day: "Thursday",
+    "name": "CC",
+    "time": "12:00pm-01:00pm",
+    "faculty": "PP",
+    "day": "Thursday"
   },
   {
-    name: "DWM (Lab)",
-    time: "02:00pm-04:00pm",
-    faculty: "SC",
-    day: "Thursday",
+    "name": "I3-1:SE",
+    "time": "02:00pm-04:00pm",
+    "faculty": "HD",
+    "day": "Thursday"
   },
   {
-    name: "SA",
-    time: "04:00pm-05:00pm",
-    faculty: "NK",
-    day: "Thursday",
-  },
-  {
-    name: "DWM",
-    time: "05:00pm-06:00pm",
-    faculty: "SC",
-    day: "Thursday",
+    "name": "I3-2:CC",
+    "time": "02:00pm-04:00pm",
+    "faculty": "SP",
+    "day": "Thursday"
   },
 
   // Friday
   {
-    name: "CG",
-    time: "08:00am-09:00am",
-    faculty: "NK",
-    day: "Friday",
+    "name": "CNS",
+    "time": "09:00am-10:00am",
+    "faculty": "RS",
+    "day": "Friday"
   },
   {
-    name: "UCD",
-    time: "08:00am-09:00am",
-    faculty: "NA",
-    day: "Friday",
+    "name": "CC",
+    "time": "10:00am-11:00am",
+    "faculty": "PP",
+    "day": "Friday"
   },
   {
-    name: "ADS",
-    time: "09:00am-10:00am",
-    faculty: "ARJ",
-    day: "Friday",
+    "name": "SE",
+    "time": "11:00am-12:00pm",
+    "faculty": "HD",
+    "day": "Friday"
   },
   {
-    name: "DWM (Lab)",
-    time: "10:00am-12:00pm",
-    faculty: "SC",
-    day: "Friday",
+    "name": "I3-1:CC",
+    "time": "12:00pm-02:00pm",
+    "faculty": "MM",
+    "day": "Friday"
   },
   {
-    name: "AI (Lab)",
-    time: "10:00am-12:00pm",
-    faculty: "PS",
-    day: "Friday",
+    "name": "I3-2:CNS",
+    "time": "12:00pm-02:00pm",
+    "faculty": "RM",
+    "day": "Friday"
   },
   {
-    name: "AI (Lab)",
-    time: "12:00pm-02:00pm",
-    faculty: "LS",
-    day: "Friday",
+    "name": "ML",
+    "time": "03:00pm-04:00pm",
+    "faculty": "SA",
+    "day": "Friday"
   },
   {
-    name: "SA (Lab)",
-    time: "12:00pm-02:00pm",
-    faculty: "NK",
-    day: "Friday",
+    "name": "IPCV-1",
+    "time": "04:00pm-06:00pm",
+    "faculty": "VS",
+    "day": "Friday"
   },
   {
-    name: "CN",
-    time: "03:00pm-04:00pm",
-    faculty: "PK",
-    day: "Friday",
+    "name": "IS-1",
+    "time": "04:00pm-06:00pm",
+    "faculty": "AP",
+    "day": "Friday"
   },
   {
-    name: "AI",
-    time: "04:00pm-05:00pm",
-    faculty: "LS",
-    day: "Friday",
-  },
-
-  // Saturday
-  {
-    name: "DEVOPS",
-    time: "08:00am-09:00am",
-    faculty: "LV",
-    day: "Saturday",
+    "name": "BDA-2",
+    "time": "04:00pm-06:00pm",
+    "faculty": "MS",
+    "day": "Friday"
   },
 ].map((classItem, index) => ({ ...classItem, id: index + 1 }));
